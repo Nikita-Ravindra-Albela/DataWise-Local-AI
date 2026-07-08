@@ -2,7 +2,7 @@
 
 An AI-powered assistant built to support modern data analysis workflows by automating data cleaning tasks, improving dataset consistency, and maintaining lineage tracking across transformations and sources.
 
-This project was created from a Data Analyst’s perspective to reduce repetitive manual work, improve transparency in data pipelines, and make analytical workflows more reliable and scalable.
+This project was created from a Data Analyst’s perspective to reduce repetitive manual work, improve transparency in data pipelines, and make analytical workflows more reliable and scalable. 
 
 Overview
 
